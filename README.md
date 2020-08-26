@@ -3,6 +3,9 @@
 <h3 align="center">
   Desafio 03: Conceitos do ReactJS - Resolvido ✔️
 </h3>
+<h3 align="center">
+  ⚠️Este repositório contém a resolução, para resolver por conta própria: <a href="#template-da-aplicação">Template da aplicação</a>⚠️
+</h3>
 
 <p align="center">“Faça seu melhor, mas sempre com prazo de entrega”!</blockquote>
 
