@@ -1,3 +1,20 @@
+## Resultado:
+
+<p align="center">
+  <img alt="Resultado" src="https://github.com/brunoxsouza/desafio-conceitos-reactjs/blob/master/Desafio03ReactJS.gif?raw=true">
+</p>
+
+## Para executar este projeto:
+Após clonar o projeto, rode um `yarn` no terminal para instalar todas as dependências.
+
+Faça o clone do backend desta aplicação, localizado neste repositório: **[Backend - Conceitos Node.](https://github.com/brunoxsouza/desafio-conceitos-nodejs)**
+
+Após clonar, você fará o mesmo procedimento do `yarn` só que agora para o backend.
+
+Feito isso, insira o comando `yarn dev` para o backend e `yarn start` para o frontend.
+
+PS: Se você acessou/acessar **[Conceitos React Native](https://github.com/brunoxsouza/desafio-conceitos-react-native)** verá que estes três projetos estão interligados.
+
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
 
 <h3 align="center">
@@ -24,8 +41,8 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#calendar-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>
+  <a href="#calendar-entrega">Entrega</a>
   <a href="#memo-licença">Licença</a>
 </p>
 
